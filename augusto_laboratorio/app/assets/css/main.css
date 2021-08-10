@@ -1,0 +1,18 @@
+p, button {
+   color: white !important;
+}
+
+.login{
+   max-width: 20rem;
+   margin: auto;
+}
+
+button {
+   background: red !important;
+   border-color: red !important;
+}
+
+.container-fluid {
+   background-color: rgb(142, 142, 148) !important;
+}
+
